@@ -1,7 +1,10 @@
 # EmissaoDeProposta
 
-Local dos arquivos
+Formulário para sistema web de emissão de proposta de serviço, feito em PHP - Laravel 5.2
 
-Model = app
-Controller = app/Http/Controllers
-View = resources/views
+Funções ativadas: Armazenamento em banco de dados, geração de PDF.
+
+Localização do MVC:
+Model      ->   /app
+Controller ->   /app/Http/Controllers
+View       ->   /resources/views
